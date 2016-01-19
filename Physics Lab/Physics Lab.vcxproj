@@ -63,19 +63,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClInclude Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Physics Lab\Physics Lab\AntiGravityField.h" />
-    <ClInclude Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Physics Lab\Physics Lab\BulletHandler.h" />
-    <ClInclude Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Physics Lab\Physics Lab\ObjectFactory.h" />
-    <ClInclude Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Physics Lab\Physics Lab\PhysicsLab.h" />
-    <ClInclude Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Physics Lab\Physics Lab\TriangleVisitor.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Physics Lab\Physics Lab\BulletHandler.cpp" />
-    <ClCompile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Physics Lab\Physics Lab\ObjectFactory.cpp" />
-    <ClCompile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Physics Lab\Physics Lab\PhysicsLab.cpp" />
-    <ClCompile Include="C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Physics Lab\Physics Lab\TriangleVisitor.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
